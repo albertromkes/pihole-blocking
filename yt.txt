@@ -1,1 +1,8 @@
 youtube.com
+ytimg.com
+googlevideo.com
+yt3.ggpht.com
+youtubei.googleapis.com
+youtube-ui.l.google.com
+youtube.googleapis.com
+youtu.be
