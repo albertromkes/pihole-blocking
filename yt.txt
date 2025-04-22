@@ -1,4 +1,5 @@
 youtube.com
+.youtube
 ytimg.com
 googlevideo.com
 yt3.ggpht.com
